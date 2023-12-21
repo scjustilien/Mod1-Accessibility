@@ -1,2 +1,1 @@
-# Mod1-Accessibility
-Module 1 Challenge - Building for Accessibility
+# Code Refactor Starter Code
