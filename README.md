@@ -1,4 +1,4 @@
-# Accessibility on Webpages
+# Accessibility on SEO Webpages
 
 ## Description
 I've created this project to enhance the accessibility of a webpage. It's important that users of assistive technology be able to navigate a site and have an experience that results in expected outcomes. The project contains new alt text for images and corrected HTML order like headers, that will align to accessibility standards.
