@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* SEO is greyed out in the word Horiseon */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -160,6 +160,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+/* alt text was added here for transparent icons */
 
 .search-engine-optimization img {
     max-height: 200px;
